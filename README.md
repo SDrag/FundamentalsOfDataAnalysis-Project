@@ -1,4 +1,4 @@
-# FundamentalsOfDataAnalysis-Project
+# Fundamentals Of Data Analysis - Project
 
 ## Repository Content
 
@@ -6,6 +6,7 @@ File Name | Comment
 --------- | -------
 README.md | Repository content and general info about the project
 FDAproject.ipynb | Jupiter notebook for the project - Box Plot investigation
+data/mly2275.csv | Data file for the project
 
 ## Running Jupyter notebook
 
