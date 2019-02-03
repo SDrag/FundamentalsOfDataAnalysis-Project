@@ -4,7 +4,7 @@
 File Name | Comment 
 --------- | -------
 README.md | Repository content and general info
-FDAproject.ipynb | Jupiter notebook for the project
+FDAproject.ipynb | Jupiter notebook for the project - Box Plot investigation
 
 ## Running Jupyter notebook
 
